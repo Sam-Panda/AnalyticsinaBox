@@ -5,7 +5,7 @@ variables:
 
   location: eastus 
   prefix: fasthack 
-  postfix: uc25
+  postfix: uc30
   environment: dev
 
   # Azure DevOps 
